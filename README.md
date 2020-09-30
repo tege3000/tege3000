@@ -1,14 +1,21 @@
-### Hi there, I'm Tito - aka tege3000 👋
+### Hi there, I'm Tito (https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Recent Grad, Aspiring Developer, and Music Producer
+## I'm a Recent Grad, and an Aspiring Developer
 
 - 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
 - 🌱 I’m currently learning more about data structures and algorithms
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
-- ⚡ Fun fact: I love to read 📚 and play the keyboard 🎹
+- ⚡ Fun fact: I love to read 📚 and produce [music] (https://soundcloud.com/enisen/tracks)  🎹
 
 
 <br />
+
+### 📊 This week I Spent my time on 
+[![Tito's github stats](https://github-readme-stats.vercel.app/api?username=tege3000)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br /> 
+
+
 
 ### Languages and Tools:
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -31,4 +38,7 @@
 
 <br />
 <br />
+
+
+
 
