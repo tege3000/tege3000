@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
 - 🌱 I’m currently learning more about data structures and algorithms
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
-- ⚡ Fun fact: I love to read 📚 and produce [music] (https://soundcloud.com/enisen/tracks)  🎹
+- ⚡ Fun fact: I love to read 📚 and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
 
 <br />
