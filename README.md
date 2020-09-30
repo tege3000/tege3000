@@ -11,7 +11,8 @@
 <br />
 
 ### 📊 This week I Spent my time on 
-[!(https://github-readme-stats.vercel.app/api/wakatime?username=tege3000)](https://github.com/anuraghazra/github-readme-stats)
+[![tito's weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 
