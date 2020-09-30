@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning more about data structures and algorithms
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
 - ⚡ Fun fact: I love to read 📚 and produce [music](https://soundcloud.com/enisen/tracks) 🎹
-
 <br />
 
 ### Languages and Tools:
@@ -32,6 +31,9 @@
 <br />
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tege3000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
 
 
 
