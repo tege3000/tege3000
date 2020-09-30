@@ -1,4 +1,4 @@
-### Hi there, I'm Tito (https://linkedin.com/in/tito-egeonu) 👋
+### Hi there, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
 ## I'm a Recent Grad, and an Aspiring Developer
 
