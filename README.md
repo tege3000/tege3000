@@ -1,6 +1,6 @@
 ### Hello World, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Recent Grad, and an Aspiring Developer
+## I'm a Recent CS Grad, and an Aspiring Developer
 
 - 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
 - 🌱 I’m currently learning more about data structures and algorithms
