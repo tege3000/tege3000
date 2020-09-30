@@ -7,11 +7,6 @@
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
 - ⚡ Fun fact: I love to read 📚 and play the keyboard 🎹
 
-### Connect with me:
-
-[<img align="left" alt="tito_ege | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="tito-egeonu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tito.ege | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -41,12 +36,3 @@
 <br />
 <br />
 
----
-
-
-
-<!-- soon come -->
-<!-- [website] : https://titoegeonu.com -->
-[twitter]: https://twitter.com/tito_ege
-[instagram]: https://instagram.com/tito.ege
-[linkedin]: https://linkedin.com/in/tito-egeonu
