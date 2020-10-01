@@ -33,7 +33,7 @@
 
 ---
 
-### This week I worked on:
+### 📊This week I worked on:
 [![Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000)](https://github.com/anuraghazra/github-readme-stats)
 
 
