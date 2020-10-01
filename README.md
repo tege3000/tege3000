@@ -31,6 +31,10 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tege3000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### This week I worked on:
+[![Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
