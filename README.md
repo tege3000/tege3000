@@ -2,10 +2,10 @@
 
 ## I'm a Recent CS Grad, and an Aspiring Developer
 
-- 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
-- 🌱 I’m currently learning more about data structures and algorithms
-- 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
-- ⚡ Fun fact: I love to read 📚 and produce [music](https://soundcloud.com/enisen/tracks) 🎹
+- 🔭  I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
+- 🌱  I’m currently learning more about data structures and algorithms
+- 🥅  I’m looking to work on more Open Source projects and collaborate with other developers
+- ⚡  Fun fact: I love to read 📚 and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
 ### Languages and Tools:
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
