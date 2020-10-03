@@ -3,7 +3,7 @@
 ## I'm a Recent CS Grad, and an Aspiring Developer
 
 - 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
-- 🌱 I’m currently learning to command arrays and strings deeply
+- 🌱 I’m currently learning to command [arrays](https://github.com/tege3000/learn/tree/master/geeksforgeeks-solved/Data%20Structures/Arrays) and strings deeply
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
 - ⚡ Fun fact: I love to read 📚 , solve [programming challanges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
