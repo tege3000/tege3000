@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to read 📚 and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
 ### 📊 This week I worked on:
-![Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000&hide_title=true)
+[Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000&hide_title=true)
 
 
 ### Languages and Tools:
