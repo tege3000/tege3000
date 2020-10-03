@@ -7,6 +7,10 @@
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
 - ⚡ Fun fact: I love to read 📚 and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
+### 📊 This week I worked on:
+[![Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Languages and Tools:
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
@@ -28,13 +32,6 @@
 
 <br />
 <br />
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tege3000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📊 This week I worked on:
-[![Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
