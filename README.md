@@ -7,7 +7,7 @@
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
 - ⚡ Fun fact: I love to read 📚 , solve [programming challanges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
-### 📊 This week I worked on:
+### 📊 Here's what ive been working on:
 [![Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000&hide_title=true&theme=)](https://github.com/anuraghazra/github-readme-stats)
 
 
