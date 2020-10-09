@@ -1,6 +1,6 @@
 ### Hello World, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Recent CS Grad, and an Aspiring Developer
+## I'm a Recent CS Grad, and an Aspiring Backend Developer
 
 - 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
 - 🌱 I’m currently learning to command [arrays](https://github.com/tege3000/learn/tree/master/geeksforgeeks-solved/Data%20Structures/Arrays) and strings deeply
