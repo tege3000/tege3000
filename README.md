@@ -8,7 +8,9 @@
 - ⚡ Fun fact: I love to read 📚 , solve [programming challanges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
 ### 📊 Here's what ive been working on:
-[![Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000&hide_title=true&theme=)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!-- [![Tito's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tege3000&hide_title=true&theme=)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ### Languages and Tools:
@@ -34,6 +36,7 @@
 <br />
 
 
+WAKATIME_API_KEY=<d5bd2b78-b8be-491e-92a4-77ea4d67ab91>
 
 
 
