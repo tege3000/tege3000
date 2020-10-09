@@ -36,9 +36,6 @@
 <br />
 
 
-WAKATIME_API_KEY=<d5bd2b78-b8be-491e-92a4-77ea4d67ab91>
-
-
 
 
 
