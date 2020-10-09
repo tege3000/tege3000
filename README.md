@@ -7,7 +7,7 @@
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
 - ⚡ Fun fact: I love to read 📚 , solve [programming challanges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
-### 📊 Here's what ive been working on:
+### 📊 This week ive been working on:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
