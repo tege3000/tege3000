@@ -1,6 +1,6 @@
 ### Hello World, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Recent CS Grad, and an Aspiring Backend Developer
+## I'm a Recent CS Grad, and an Aspiring Software Engineer
 
 - 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
 - 🌱 I’m currently learning to command [arrays](https://github.com/tege3000/learn/tree/master/geeksforgeeks-solved/Data-Structures/Arrays) and [strings](https://github.com/tege3000/learn/tree/master/geeksforgeeks-solved/Data-Structures/Strings) deeply
@@ -9,12 +9,6 @@
 
 ### 📊 This week ive been working on:
 <!--START_SECTION:waka-->
-```text
-C++          16 hrs 52 mins  ██████████████████▓░░░░░░   74.36 % 
-JavaScript   5 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.88 % 
-HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-```
 <!--END_SECTION:waka-->
 
 ### Languages and Tools:
