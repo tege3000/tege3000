@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
 - 🌱 I’m currently learning to command [arrays](https://github.com/tege3000/learn/tree/master/geeksforgeeks-solved/Data-Structures/Arrays) and [strings](https://github.com/tege3000/learn/tree/master/geeksforgeeks-solved/Data-Structures/Strings) deeply
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
-- ⚡ Fun fact: I love to read 📚 , solve [programming challanges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
+- ⚡ Fun fact: I love to read 📚 , solve [programming challenges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
 ### 📊 This week ive been working on:
 <!--START_SECTION:waka-->
