@@ -3,22 +3,17 @@
 ## I'm a Recent CS Grad, and an Aspiring Software Engineer
 
 - 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
-- 🌱 I’m currently learning to command [arrays](https://github.com/tege3000/learn/tree/master/geeksforgeeks-solved/Data-Structures/Arrays) and [strings](https://github.com/tege3000/learn/tree/master/geeksforgeeks-solved/Data-Structures/Strings) deeply
+- 🌱 I’m currently learning more about data structures and algorithms
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
 - ⚡ Fun fact: I love to read 📚 , solve [programming challenges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
 ### 📊 This week ive been working on:
+
 <!--START_SECTION:waka-->
-```text
-CSS          8 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   36.28 % 
-JavaScript   5 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.26 % 
-C++          4 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.48 % 
-HTML         3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-```
 <!--END_SECTION:waka-->
 
 ### Languages and Tools:
+
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -39,8 +34,3 @@ JSON         34 mins         ▓░░░░░░░░░░░░░░░░
 
 <br />
 <br />
-
-
-
-
-
