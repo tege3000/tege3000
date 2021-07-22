@@ -11,8 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 mins          ██████████████████░░░░░░░   72.16 % 
-PHP          2 mins          ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
