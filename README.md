@@ -2,8 +2,8 @@
 
 ## I'm a Recent CS Grad, and an Aspiring Software Engineer
 
-- 🔭 I’m currently working on completing the [Edconnectnig Full Stack Developer Micro-degree](https://edconnect.ng)!
-- 🌱 I’m currently learning more about data structures and algorithms
+- 🔭 I’m currently building an eCommerce platform!
+- 🌱 I’m currently learning more about React js and Nuxt Js
 - 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
 - ⚡ Fun fact: I love to read 📚 , solve [programming challenges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
 
