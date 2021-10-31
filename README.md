@@ -11,8 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 hr 19 mins    ████████████████████▓░░░░   82.06 % 
-JavaScript   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
