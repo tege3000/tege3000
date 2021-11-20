@@ -11,7 +11,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   1 hr 23 mins    ██████████████████████▓░░   91.30 % 
+Markdown     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 ```
 <!--END_SECTION:waka-->
 
