@@ -1,19 +1,6 @@
 ### Hello World, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Recent CS Grad, and an Aspiring Software Engineer
-
-- 🔭 I’m currently building an eCommerce platform!
-- 🌱 I’m currently learning more about React js and Nuxt Js
-- 🥅 I’m looking to work on more Open Source projects and collaborate with other developers
-- ⚡ Fun fact: I love to read 📚 , solve [programming challenges](https://www.hackerrank.com/oaegeonu) 👨🏾‍💻 , and produce [music](https://soundcloud.com/enisen/tracks) 🎹
-
-### 📊 This week ive been working on:
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+## I'm a Recent CS Grad, and an Aspiring Product Manager
 
 ### Languages and Tools:
 
