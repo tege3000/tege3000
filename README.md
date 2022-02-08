@@ -1,6 +1,6 @@
 ### Hello World, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Recent CS Grad, and a Front End Engineer
+## I'm a Recent CS Grad, and a Back End Engineer
 
 ### Languages and Tools:
 
