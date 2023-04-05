@@ -1,6 +1,6 @@
 ### Hello World, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Recent CS Grad,
+## I'm a Software Developer,
 
 ### Languages and Tools:
 
