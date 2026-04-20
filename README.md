@@ -1,6 +1,6 @@
 ### Hello World, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Back End Developer,
+## I'm a Full Stack Developer,
 
 ### Focused on what is Important - Quality and Performance
 
