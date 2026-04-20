@@ -1,6 +1,8 @@
 ### Hello World, I'm [Tito](https://linkedin.com/in/tito-egeonu) 👋
 
-## I'm a Software Developer,
+## I'm a Back End Developer,
+
+### Focused on what is Important - Quality and Performance
 
 ### Languages and Tools:
 
